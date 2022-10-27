@@ -23,12 +23,20 @@ These screesshots show some of the interfaces of the application.
 
 
 ## TRANSLATION
-The project has been translated partially from italian to english.
+The project has been translated partially from italian to english. (it was originally in italian because I did it for my university in Italy)
 All the Graphic interfaces are in english, but the code (excluding obviously the java code) is in italian (variable and method names).
 
 ## HOW TO USE IT
 The repo has two main folders:
 -one for the databse
 -one for the java part
+
+### Database
+The database has been developed using PostgreSQL, in the Database folder there are all the tables and sequences.
+There is also a .backuo file, than can be imported in pgAdmin 4 to test the database (here the datas and tables are still in italian).
+
+### Java
+In the java part the is the source folder with all the code, divided in controller, Guis, daos, entities and table models.
+The librairies used for the project are: jcalendar, jgoodies, joda time and miglayouot.
 
 
