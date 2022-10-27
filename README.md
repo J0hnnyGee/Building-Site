@@ -2,7 +2,7 @@
 University project about developing a Java and SQL program for a (fictitious) building company for the building site management
 
 
-SCREENSHOTS
+## SCREENSHOTS
 These screesshots show some of the interfaces of the application.
 
 
@@ -22,11 +22,11 @@ These screesshots show some of the interfaces of the application.
 ![Screenshot (42)](https://user-images.githubusercontent.com/61202910/198253194-44e7f4af-fe69-4ab8-bf29-0b7a3691196b.png)
 
 
-TRANSLATION
+## TRANSLATION
 The project has been translated partially from italian to english.
 All the Graphic interfaces are in english, but the code (excluding obviously the java code) is in italian (variable and method names).
 
-HOW TO USE IT
+## HOW TO USE IT
 The repo has two main folders:
 -one for the databse
 -one for the java part
